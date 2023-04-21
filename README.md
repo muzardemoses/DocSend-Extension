@@ -33,3 +33,8 @@ After installing the extension, click on the extension icon in the Chrome toolba
 - Firebase
 - Chrome Api
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1d0b06f4485f50d17b113f4c1661492b7753918c
